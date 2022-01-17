@@ -1,0 +1,67 @@
+html, body, form{
+    background-color: #37474F;
+}
+
+.header{
+    text-align: left; 
+    font-family: 'Fjalla One', sans-serif;
+    font-size:4rem; 
+    color:#E8EAF6;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no repeat;
+}
+
+container.form{
+    display: flex;
+    font-family: 'Kreon', serif;
+    color:#E8EAF6;
+    margin: 15px;
+    padding: 5px;
+    background-color: #37474F;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+h2{
+    align-items: center;
+    text-align: center;
+    
+}
+
+h3{
+    align-items: center;
+    text-align: center;
+}
+select {
+    align-items: center;
+    text-align: center;
+}
+
+#mode-select{
+    align-items: center;
+    background-color: #E8EAF6;
+    margin: 50 50 8;
+    text-align-last: center;
+    text-align: center;
+}
+
+.h3#choice{
+    align-items: center;
+    text-align: center;
+}
+
+#number-input {
+    align-items: center;
+    background-color: #E8EAF6;
+}
+input{
+    align-items: center;
+}
+#submit-input {
+    align-items: center;
+    background-color: #E8EAF6;
+    color: #37474F;
+    text-transform: uppercase;
+}
